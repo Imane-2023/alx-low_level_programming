@@ -27,5 +27,5 @@ free(c);
 free(i);
 free(f);
 free(d);
-return (98);
+return (0);
 }
